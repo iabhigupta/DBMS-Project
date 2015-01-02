@@ -1,0 +1,59 @@
+/* Body Settings */
+body { font-family : Arial, Verdana, Sans-Serif; color : #000000; font-size : 11px; background-color : #FFFFFF; }
+
+/* Table Settings */
+td { font-family : Arial, Verdana, Tahoma,Sans-Serif; color : #000000; font-size : 11px; vertical-align: top;}
+
+/* Link Settings */
+a { font-family : Arial, Verdana, Sans-Serif; color : #CC0001; font-size : 11px; }
+
+/* Link Hover Settings */
+a:hover { font-family : Arial, Verdana, Sans-Serif; color : #CC0001; font-size : 11px; text-decoration : underline; }
+.search { font-family : Arial, Verdana, Sans-Serif; color : #7D7256; font-size : 11px;font-weight : bold;text-decoration : none; }
+.cats { font-family : Arial, Verdana, Sans-Serif; color : #7D7256; font-size : 11px;font-weight : bold;text-decoration : none; }
+.cats:hover { 	font-family : Arial, Verdana, Sans-Serif; color : #7D7256; font-size : 11px;font-weight : bold; text-decoration : underline; }
+
+/* Navigation Links */
+.nav { 	font-family : Arial, Verdana, Sans-Serif; 	font-size : 11px; 	font-weight : bold; text-decoration : none; color: #FFFFFF; }
+.nav:hover { font-family : Arial, Verdana, Sans-Serif; font-size : 11px; font-weight : bold; text-decoration : underline; color: #FFFFFF; }
+
+/* Input Box Settings */
+.input_box { border: 1 solid #000000; background-color: #F1F1F1; color: #000000; font-family: Arial, Verdana, Sans-Serif; font-size: 11px; line-height: 13px; font-weight: normal; 
+}
+
+/* Submit Button Settings */
+.submit_button { 	font-size : xx-small; font-family : Arial, Verdana, Sans-Serif; background-color : #CCCCCC; color : #000000; font-weight : bold; border-width : thin;}
+
+
+.TopNav {	color: #FFFFFF;	font-weight : bold;}
+TD.TopNav {	font-size: 11px;	font-weight: bold;	color: #FFFFFF;}
+.SideTable {	background: #FFFFFF;	border-color: #A7A7A7;	border-style: solid;	border-width: 1px;}
+TD.SideTableHeading {	font-size: 11px;	font-weight: bold;	color: #FFFFFF;	padding-left: 10px;}
+.CenterTable {	background: #FFFFFF;	border-color: #A7A7A7;	border-style: solid;	border-width: 1px;}
+.CenterTableItems {	border-color: #A7A7A7;	border-style: solid;	border-width: 1px;}
+
+.ErrorTable {	background: #FFFFFF;	border-color: #FF0000;	border-style: solid;	border-width: 1px;}
+.Required {	color: #FF0000;}
+.HeadingFont {	color: #CC0001;	font-size: 14px;	font-weight: bold;}
+.OurPrice {	background: #FFFFFF;}
+
+TD.ErrorMain {	font-size: 10px;	font-weight: bold;}
+TD.CenterTableHeading {	font-size: 11px;	font-weight: bold;	background: #A7A7A7;	color: #FFFFFF;}
+.CartContents {	font-size: 11px;	text-decoration : none;}
+.CartContents:hover { 	font-size : 11px; 	text-decoration : underline; }
+.PagesAlign {	text-align: justify;	line-height: 20px;}
+.HR1 {	padding: 0px; 	margin-top: 8px; 	margin-bottom: 8px; 	height: 1px; 	border-style: none; 	border-color: '#A7A7A7'; 	color: '#A7A7A7'; }
+
+/* You will not need to change below */
+.small2 { font-family : Arial, Verdana, Sans-Serif; font-size : 11px; color : #FFFFFF; text-decoration : underline; }
+a:hover.small2 { font-family : Arial, Verdana, Sans-Serif; color : #FFFFFF; font-size : 11px; text-decoration : none; }
+
+.small { font-family : Arial, Verdana, Sans-Serif; font-size : 10px; }
+a:hover.small { font-family : Arial, Verdana, Sans-Serif; color : #333333; font-size : 10px; text-decoration : underline; }
+
+.myBosex{	float: left;  overflow: left;  border:0px solid; padding:2px; color: #333333; font-weight: bold; width:150px; height: 150px;}
+
+#imageObject { visibility: hidden; position: absolute; top: 0; left: 0; z-index: 5000; }
+.bar_top, .bar_top:link, .bar_top:visited { color: #000000; text-align: right; width: 250px; font-size: 11px; text-decoration: none; }
+
+.BoxIndex {border: 1px solid #666; }
